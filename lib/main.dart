@@ -30,7 +30,7 @@ class _QuizPageState extends State<QuizPage> {
   List<String> questions = [
     'You can lead a cow down stairsssss but not up stairs.?',
     'Approximately one quarter of human bones are in the feet.?',
-    'A slug\'s blood is green.?',
+    'A slug\'s blood is greeeeen.?',
   ];
 
   List<bool> answers = [false, true, true];

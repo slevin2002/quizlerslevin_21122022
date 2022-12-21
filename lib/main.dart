@@ -28,7 +28,7 @@ class QuizPage extends StatefulWidget {
 class _QuizPageState extends State<QuizPage> {
   List<Icon> scorkeeper = [];
   List<String> questions = [
-    'You can lead a dog down stairs but not up stairs.?',
+    'You can lead a cat down stairs but not up stairs.?',
     'Approximately one quarter of human bones are in the feet.?',
     'A slug\'s bloood is green.?',
   ];
